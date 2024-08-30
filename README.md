@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Markus.
-I'm a software developer and technology enthusiast from Osnabrück, Germany. My passion is building digital services and implementing own ideas. In addition to my main job I use every free minute to implement my own project, called beSporty. To compensate my computer time I do daily sports 💪 and eat much fast food. 🍕
+I’m a full-stack web developer with a passion for creating impactful digital solutions. Originally from Osnabrück and now based in Hamburg, Germany, I thrive on exploring new technologies and finding innovative ways to solve problems.
 
 <!--
 **mklemann-com/mklemann-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
